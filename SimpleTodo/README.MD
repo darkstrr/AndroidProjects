@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+https://imgur.com/TUiguTf
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
