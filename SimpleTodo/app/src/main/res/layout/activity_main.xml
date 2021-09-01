@@ -32,7 +32,7 @@
         tools:ignore="MissingConstraints" />
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rvitems"
+        android:id="@+id/rvItems"
         android:layout_width="400dp"
         android:layout_height="672dp"
         android:layout_marginStart="2dp"
